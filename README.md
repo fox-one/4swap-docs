@@ -2,8 +2,8 @@
 
 ## Introduction
 
-- [Listing coins and pairs](./en/getting-started/coin-listing-application-tutorial)
+- [Listing coins and pairs](./en/getting-started/coin-listing-application-tutorial.md)
 
 ## Developers
 
-- [Developer Documents](./en/developer)
+- [Developer Documents](./en/developer/README.md)
